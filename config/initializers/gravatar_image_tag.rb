@@ -3,6 +3,6 @@
 # see https://github.com/mdeering/gravatar_image_tag
 
 GravatarImageTag.configure do |config|
-  config.default_image = "https://c3fickdistanz.de/gravatar-140.png"
+  config.default_image = "https://www.chaostreff-dortmund.de/wp-content/uploads/2014/07/logo_ctdo_200.png"
   config.secure = true
 end
