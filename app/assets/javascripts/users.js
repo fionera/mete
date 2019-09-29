@@ -10,4 +10,4 @@ function hashchange() {
 }
 
 $(window).on('hashchange', hashchange);
-hashchange();
+$('.user').show();
